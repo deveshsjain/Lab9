@@ -1,0 +1,25 @@
+{
+  "name": "lab9",
+  "version": "1.0.0",
+  "description": "This is Lab9",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \\\"Error no test specified\\\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deveshsjain/Lab9.git"
+  },
+  "author": "Jain, Devesh, 10435361",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deveshsjain/Lab9/issues"
+  },
+  "homepage": "https://github.com/deveshsjain/Lab9#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0"
+  }
+}
